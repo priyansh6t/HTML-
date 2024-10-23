@@ -1,0 +1,8 @@
+<!-- BASIC SYNTAX -->
+
+<iframe src="URL" width="width" height="height"></iframe>
+
+<!-- Embedding a YouTube Video -->
+
+<iframe src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
